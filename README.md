@@ -2,6 +2,8 @@
 
 AchouFood é um aplicativo iOS de delivery de comida construído com UIKit e interface totalmente programática. O app permite navegar por restaurantes próximos, alternar entre visualização em lista e mapa, abrir detalhes do restaurante, consultar o cardápio, adicionar itens ao pedido e revisar o resumo do pedido.
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5650d899-c3d8-4a7a-b80b-c002f2509cd7" />
+
 ## Visão Geral
 
 O projeto é organizado por cenas de funcionalidade e por um coordinator compartilhado. A base atual usa dados mockados embarcados no app, imagens remotas para restaurantes e itens do cardápio, além de MapKit para exibir localizações e abrir rotas no Apple Maps.
