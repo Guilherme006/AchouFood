@@ -1,9 +1,3 @@
-//
-//  PlaceDetailView.swift
-//  AchouFood
-//
-//  Created by Arthur Rios on 17/12/25.
-//
 
 import CoreLocation
 import Kingfisher
@@ -165,7 +159,6 @@ class PlaceDetailView: UIView {
         case .authorizedAlways, .authorizedWhenInUse:
             traceRoute()
         case .denied, .restricted:
-            // Disparar um alerta
             presentAlert?()
         @unknown default:
             break

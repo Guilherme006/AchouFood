@@ -1,9 +1,3 @@
-//
-//  HomeDeliveryViewController.swift
-//  AchouFood
-//
-//  Created by Arthur Rios on 20/10/25.
-//
 
 import UIKit
 import SnapKit

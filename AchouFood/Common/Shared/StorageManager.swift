@@ -1,9 +1,3 @@
-//
-//  StorageManager.swift
-//  AchouFood
-//
-//  Created by Arthur Rios on 23/10/25.
-//
 
 import Foundation
 

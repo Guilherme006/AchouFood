@@ -1,9 +1,3 @@
-//
-//  OpenOrderView.swift
-//  AchouFood
-//
-//  Created by Arthur Rios on 05/02/26.
-//
 
 import UIKit
 import SnapKit

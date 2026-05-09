@@ -1,9 +1,3 @@
-//
-//  PlaceDetailViewController.swift
-//  AchouFood
-//
-//  Created by Arthur Rios on 17/12/25.
-//
 
 import UIKit
 import SnapKit

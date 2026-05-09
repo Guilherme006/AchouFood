@@ -1,9 +1,3 @@
-//
-//  OrderDetailsView.swift
-//  AchouFood
-//
-//  Created by Arthur Rios on 23/01/26.
-//
 
 import UIKit
 import SnapKit

@@ -1,9 +1,3 @@
-//
-//  PlaceDetailButtons.swift
-//  AchouFood
-//
-//  Created by Arthur Rios on 22/12/25.
-//
 
 import UIKit
 import SnapKit

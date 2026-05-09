@@ -1,9 +1,3 @@
-//
-//  MenuSectionsView.swift
-//  AchouFood
-//
-//  Created by Arthur Rios on 09/01/26.
-//
 
 import UIKit
 import SnapKit

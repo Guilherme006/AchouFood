@@ -1,9 +1,3 @@
-//
-//  OrderSuccessBanner.swift
-//  AchouFood
-//
-//  Created by Arthur Rios on 09/02/26.
-//
 
 import UIKit
 import SnapKit

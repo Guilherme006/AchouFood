@@ -1,9 +1,3 @@
-//
-//  DeliveryScenesCoordinator.swift
-//  AchouFood
-//
-//  Created by Arthur Rios on 20/10/25.
-//
 
 import UIKit
 import MapKit
@@ -12,7 +6,6 @@ public class DeliveryScenesCoordinator {
     private var navigationController: UINavigationController?
     private var tabBarController: UITabBarController?
     
-    // MARK: - Start
     func start() -> UITabBarController? {
         return createTabBar()
     }
@@ -43,7 +36,6 @@ public class DeliveryScenesCoordinator {
     }
 }
 
-// MARK: - HomeDelivery Coordinator
 extension DeliveryScenesCoordinator: HomeDeliveryCoordinator {
     public func navigateToPlaceDetail(place: Place) {
         let viewController = PlaceDetailFactory.make(place: place, coordinator: self)
@@ -51,7 +43,6 @@ extension DeliveryScenesCoordinator: HomeDeliveryCoordinator {
     }
 }
 
-// MARK: - PlaceDetail Coordinator
 extension DeliveryScenesCoordinator: PlaceDetailCoordinator {
     public func traceRoute(_ origin: CLLocationCoordinate2D, _ destination: CLLocationCoordinate2D) {
         let originPlacemark = MKPlacemark(coordinate: origin)
@@ -90,7 +81,6 @@ extension DeliveryScenesCoordinator: PlaceDetailCoordinator {
     }
 }
 
-// MARK: - PlaceMenu Coordinator
 extension DeliveryScenesCoordinator: PlaceMenuCoordinator {
     public func openOrder(place: Place?) {
         tabBarController?.selectedIndex = 1
@@ -102,7 +92,6 @@ extension DeliveryScenesCoordinator: PlaceMenuCoordinator {
     }
 }
 
-// MARK: - Order Coordinator
 extension DeliveryScenesCoordinator: OrderCoordinator {
     public func openMenu() {
         tabBarController?.selectedIndex = 0

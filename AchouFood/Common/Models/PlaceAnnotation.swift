@@ -1,9 +1,3 @@
-//
-//  PlaceAnnotation.swift
-//  AchouFood
-//
-//  Created by Arthur Rios on 24/11/25.
-//
 
 import MapKit
 

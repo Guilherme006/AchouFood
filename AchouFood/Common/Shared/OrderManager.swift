@@ -1,9 +1,3 @@
-//
-//  OrderManager.swift
-//  AchouFood
-//
-//  Created by Arthur Rios on 25/01/26.
-//
 
 import Foundation
 

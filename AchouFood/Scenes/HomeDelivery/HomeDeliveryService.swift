@@ -1,9 +1,3 @@
-//
-//  HomeDeliveryService.swift
-//  AchouFood
-//
-//  Created by Arthur Rios on 04/11/25.
-//
 
 import Foundation
 

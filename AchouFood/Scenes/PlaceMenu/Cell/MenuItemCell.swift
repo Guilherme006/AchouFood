@@ -1,9 +1,3 @@
-//
-//  MenuItemCell.swift
-//  AchouFood
-//
-//  Created by Arthur Rios on 22/01/26.
-//
 
 import UIKit
 import SnapKit

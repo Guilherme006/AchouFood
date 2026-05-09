@@ -1,9 +1,3 @@
-//
-//  PlaceMenuFactory.swift
-//  AchouFood
-//
-//  Created by Arthur Rios on 07/01/26.
-//
 
 import UIKit
 

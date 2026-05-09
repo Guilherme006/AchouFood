@@ -1,9 +1,3 @@
-//
-//  Metrics-Constants.swift
-//  AchouFood
-//
-//  Created by Arthur Rios on 14/10/25.
-//
 
 import Foundation
 import UIKit

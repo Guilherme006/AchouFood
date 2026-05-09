@@ -1,9 +1,3 @@
-//
-//  OrderInputCell.swift
-//  AchouFood
-//
-//  Created by Arthur Rios on 06/02/26.
-//
 
 import UIKit
 import SnapKit
