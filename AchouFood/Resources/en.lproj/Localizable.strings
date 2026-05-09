@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  AchouFood
+
+  Created by Arthur Rios on 14/10/25.
+*/
+
+"home.find.places" = "Busque por Restaurantes";
+"home.header.addressTitle" = "ENTREGAR EM";
+"home.find.places" = "Busque por restaurantes";
+"home.nearest.places" = "RESTAURANTES PERTO DE VOCÊ";
+"alert.title" = "Permissão necessária";
+"alert.message" = "Para usar esse recurso é necessário permitir acesso à sua localização. Você pode ativar esse recurso em ajustes";
+"alert.cancel" = "Cancelar";
+"alert.settings" = "Abrir configurações";
+"placeMenu.title" = "CARDÁPIO";
+"placeMenu.order.buttonTitle" = "VER PEDIDO";
+"order.title" = "PEDIDO";
+"order.subtitle" = "Acompanhe seu pedido";
+"order.title.empty" = "Você ainda não adicionou itens";
+"order.title.explore" = "EXPLORAR";
+"confirmOrderDetails.order.buttonTitle" = "CONFIRMAR PEDIDO";
